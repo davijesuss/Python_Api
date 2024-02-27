@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "descricao": "conta de  mercado",
+        "valor": 60000,
+        "data": "2024-02-29",
+        "tipo_da_transacao": "sa\u00edda"
+    },
+    {
+        "id": 2,
+        "descricao": "conta de agua",
+        "valor": 60000,
+        "data": "2024-02-29",
+        "tipo_da_transacao": "entrada"
+    }
+]
